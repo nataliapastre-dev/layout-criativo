@@ -2,8 +2,8 @@
 
 ![Preview do Projeto](https://i.postimg.cc/h4ywq2n1/68747470733a2f2f692e706f7374696d672e63632f666b3477744779502f70726f6a65746f2e706e67.png)
 
-🔗 **Acesse o projeto online:**  
-👉 https://nataliapastre-dev.github.io/layout-criativo/
+🌐 [Visualizar projeto](https://nataliapastre-dev.github.io/layout-criativo/)
+
 
 ---
 
